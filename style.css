@@ -24,3 +24,9 @@
     line-height: 1.2;
     font-size: calc(0.720rem + 0.8vw);
 }
+
+.display-12 {
+    font-weight: 300;
+    line-height: 1.2;
+    font-size: calc(0.480rem + 0.6vw);
+}
