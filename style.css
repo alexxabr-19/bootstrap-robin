@@ -19,6 +19,11 @@
     padding-bottom: 5rem !important;
 }
 
+.px-9 {
+    padding-left: 7rem !important;
+    padding-right: 7rem !important;
+}
+
 .display-9 {
     font-weight: 300;
     line-height: 1.2;
